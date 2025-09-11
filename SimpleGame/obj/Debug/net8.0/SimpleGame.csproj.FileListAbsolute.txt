@@ -1,0 +1,14 @@
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.AssemblyInfoInputs.cache
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.AssemblyInfo.cs
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.csproj.CoreCompileInputs.cache
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\bin\Debug\net8.0\SimpleGame.exe
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\bin\Debug\net8.0\SimpleGame.deps.json
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\bin\Debug\net8.0\SimpleGame.runtimeconfig.json
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\bin\Debug\net8.0\SimpleGame.dll
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\bin\Debug\net8.0\SimpleGame.pdb
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.dll
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\obj\Debug\net8.0\refint\SimpleGame.dll
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.pdb
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\obj\Debug\net8.0\SimpleGame.genruntimeconfig.cache
+C:\Users\jaako\Desktop\Projects\SimpleGame\SimpleGame\obj\Debug\net8.0\ref\SimpleGame.dll
