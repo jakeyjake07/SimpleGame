@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jaako\\.nuget\\packages\\": {}
+    "/Users/jakeyjake/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaako\\Desktop\\Projects\\SimpleGame\\SimpleGame\\SimpleGame.csproj",
+      "projectUniqueName": "/Users/jakeyjake/Documents/Projects/SimpleGame-1/SimpleGame/SimpleGame.csproj",
       "projectName": "SimpleGame",
-      "projectPath": "C:\\Users\\jaako\\Desktop\\Projects\\SimpleGame\\SimpleGame\\SimpleGame.csproj",
-      "packagesPath": "C:\\Users\\jaako\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaako\\Desktop\\Projects\\SimpleGame\\SimpleGame\\obj\\",
+      "projectPath": "/Users/jakeyjake/Documents/Projects/SimpleGame-1/SimpleGame/SimpleGame.csproj",
+      "packagesPath": "/Users/jakeyjake/.nuget/packages/",
+      "outputPath": "/Users/jakeyjake/Documents/Projects/SimpleGame-1/SimpleGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jaako\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/jakeyjake/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

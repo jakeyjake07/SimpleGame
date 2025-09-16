@@ -28,7 +28,7 @@ namespace SimpleGame
             if (Health < 0) Health = 0;
         }
 
-    public void ShowProfile()
+  /*   public void ShowProfile()
         {
             Console.WriteLine("\n====================");
             Console.WriteLine("     ENEMY INFO     ");
@@ -37,7 +37,7 @@ namespace SimpleGame
             Console.WriteLine($" Health : {Health}/{MaxHealth}");
             Console.WriteLine($" Attack : {Attack}");
             Console.WriteLine("====================");
-        }
+        } */
     
     }
 

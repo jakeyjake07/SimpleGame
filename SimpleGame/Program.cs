@@ -53,10 +53,10 @@ class Program
 
         Enemy[] enemies = new Enemy[]
         {
-            new Enemy("Goblin", 50, 10,  5,  10),
-            new Enemy("Orc", 80, 15, 10,  20),
-            new Enemy("Skeleton", 40, 12,  8,  15),
-            new Enemy("Dark Mage", 60, 18, 20,  30),
+            new Enemy("Goblin", 50, 10,  5,  20),
+            new Enemy("Orc", 80, 15, 10,  30),
+            new Enemy("Skeleton", 40, 12,  8,  20),
+            new Enemy("Dark Mage", 60, 18, 20,  40),
             new Enemy("Dragon", 200, 30, 50, 100)
         };
 
@@ -68,7 +68,7 @@ class Program
 
         while (isRunning)
         {
-            
+
             Console.WriteLine("\n-----Menu------");
             Console.WriteLine("1. Fight");
             Console.WriteLine("2. Rest");
@@ -125,7 +125,7 @@ class Program
 
         while (player.Health > 0 && enemy.Health > 0)
         {
-            
+
             Console.WriteLine("-----Fight Menu------");
             Console.WriteLine("1. Attack");
             Console.WriteLine("2. Heal");
